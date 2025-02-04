@@ -1,0 +1,14 @@
+*{
+    border: 0;
+    padding: 0;
+}
+
+.container{
+    background: rgb(68, 106, 117); 
+    margin:0 auto;
+    padding: 10px;
+    max-width:600px;
+}
+body{
+    background: rgb(185, 185, 185);
+}
