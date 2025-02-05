@@ -10,4 +10,4 @@ let tom = "tom"
 let firstom = "hanks"
 let secondtom = "cruise"
 let myfavoritetom = "tom oliveira"
-console.log(myfavoritetom) teste
+console.log(myfavoritetom)
