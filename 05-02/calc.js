@@ -9,7 +9,7 @@ let num2 = Number(prompt("digite outro numero"));
 let soma = num1 + num2;
 
 
-// impromir resposta
+// imprimir resposta
 console.log(`a soma e ${soma}`);
 
 let num3 = Number(prompt("digite um numero"));
